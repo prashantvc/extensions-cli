@@ -1,8 +1,19 @@
 {
   "name": "extensions-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "CLI tool to manage Private Visual Studio Code extensions",
   "homepage": "https://colorcodehq.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prashantvc/extensions-cli"
+  },
+  "contributors": [
+    {
+      "name": "Prashant Cholachagudda",
+      "email": "pvc@outlook.com"
+    }
+  ],
   "main": "index.js",
   "publishConfig": {
     "access": "public"
