@@ -1,6 +1,6 @@
 {
   "name": "extensions-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "CLI tool to manage Private Visual Studio Code extensions",
   "homepage": "https://colorcodehq.com",
   "main": "index.js",
